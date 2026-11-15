@@ -9,16 +9,13 @@
 <p data-importer="text" align="left">I'm IT student</p>
 
 
-###
 
-<div data-importer="border">
-  <img style="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt](https://gifdb.com/images/thumbnail/sleeping-frieren-cute-face-dpvb2jo0nupvef5w.gif)"  />
 </div>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif](https://gifdb.com/images/thumbnail/sleeping-frieren-cute-face-dpvb2jo0nupvef5w.gif"  />
 </div>
 
 ###
