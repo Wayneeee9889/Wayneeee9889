@@ -10,7 +10,7 @@
 
 ###
 
-> *Love: *
+> Love: 
 >> -Monster high ✧ <br>
 >> -Project Sekai: Colorful Stage ✧ <br>
 >> -Anime ✧ <br>
@@ -19,7 +19,13 @@
 >>  -stars ✧ <br>
 
  ###
+
+ > HATEE:
+>> -russians <br>
+>> -transphobes, pedophiles, rasist e.t.c <br>
  
+###
+
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://gifdb.com/images/high/sleeping-frieren-cute-face-dpvb2jo0nupvef5w.webp"  />
