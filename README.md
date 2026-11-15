@@ -2,20 +2,17 @@
 
 ###
 
-<p data-importer="text" align="left">Hello World!!</p>
+<h3 data-importer="text" align="left">Vivi is here!</h3>
 
 ###
 
-<p data-importer="text" align="left">Hello World!!</p>
+<p data-importer="text" align="left">I'm IT student</p>
 
-###
-
-<p data-importer="text" align="left">Hello World!!</p>
 
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt](https://gifdb.com/images/thumbnail/sleeping-frieren-cute-face-dpvb2jo0nupvef5w.gif)"  />
 </div>
 
 ###
