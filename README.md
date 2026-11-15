@@ -9,7 +9,17 @@
 <p data-importer="text" align="left">16 y.o.</p>
 
 ###
-<p data-importer="text" align="left">Love monster high and anime sooo muchhh</p>
+
+ *Love: *
+ -Monster high ✧
+ -Project Sekai: Colorful Stage ✧
+ -Anime ✧
+ -Alien Stage ✧
+ -cats and seals *(especially my cat Chips)* ✧
+ -stars ✧
+
+ ###
+ 
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://gifdb.com/images/high/sleeping-frieren-cute-face-dpvb2jo0nupvef5w.webp"  />
@@ -21,6 +31,4 @@
 ###
 
 
-
-###
 
