@@ -11,12 +11,12 @@
 ###
 
 > *Love: *
->> -Monster high ✧
->> -Project Sekai: Colorful Stage ✧
->> -Anime ✧
->> -Alien Stage ✧
->> -cats and seals *(especially my cat Chips)* ✧
->>  -stars ✧
+>> -Monster high ✧ <br>
+>> -Project Sekai: Colorful Stage ✧ <br>
+>> -Anime ✧ <br>
+>> -Alien Stage ✧ <br>
+>> -cats and seals *(especially my cat Chips)* ✧ <br>
+>>  -stars ✧ <br>
 
  ###
  
